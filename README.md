@@ -15,7 +15,7 @@ Stored in csv file
 4. Train epochs: 10
 5. Leaning rate: 0.001
 
-## Testing Model
+## Testing Model or Generate Sequence
 1. Initialize a sentence with 10 words
 2. Predict the next 11th word
 3. Choose top 5 words that has highest probability to become the 11th word
